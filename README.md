@@ -1,4 +1,4 @@
 # Collection of tools ready for use
 
-* https://nssm.cc/
-*
+* nssm.exe: https://nssm.cc/
+* restic.exe: https://github.com/restic/restic
